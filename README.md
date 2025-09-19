@@ -1,6 +1,8 @@
 # PracticalApplication2
-The link to the notebook: https://github.com/pengshm/PracticalApplication2/
-Business understanding of the problem:
-Findings:
-I analyzed the dataset to identify which features (such as mileage, year, and fuel type) most strongly influence the target variable, car price. Using exploratory data analysis and predictive modeling, we will determine the key drivers of price and provide actionable insights for the dealership.
-Next steps:
+## The link to the notebook: [https://github.com/pengshm/PracticalApplication2/](https://github.com/pengshm/PracticalApplication2/blob/main/prompt_II.ipynb)
+### Business understanding of the problem:
+A dataset with information on over 400 thousand used cars was provided. I prepared the dataset, experimented with different parameters to build models, and evaluated the model using the test set.
+### Findings:
+I analyzed the dataset to identify that the features, including odometer, year, and fuel type, most strongly influence the target variable, car price. 
+### Next steps:
+The dataset contained substantial missing data, particularly in the manufacturer, condition, and title_status columns. As a result, I dropped these columns. However, lots of valuable information could be extracted.
