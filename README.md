@@ -1,5 +1,5 @@
 # PracticalApplication2
-## The link to the notebook: (https://github.com/pengshm/PracticalApplication2/blob/main/prompt_II.ipynb)
+## The link to the notebook: https://github.com/pengshm/PracticalApplication2/blob/main/prompt_II.ipynb
 ### Business understanding of the problem:
 A dataset with information on over 400 thousand used cars was provided. I prepared the dataset, experimented with different parameters to build models, and evaluated the model using the test set.
 ### Findings:
